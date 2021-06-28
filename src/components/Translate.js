@@ -14,6 +14,9 @@ const options = [
     {
         label:'Hindi',
         value:'hi'
+    }, {
+        label: 'Urdu',
+        value:'ur'
     }
 ]
 
